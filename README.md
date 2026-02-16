@@ -1,4 +1,6 @@
-## ディレクトリ説明
+# my-area-score-api
+
+## 説明
 
 my-area-score（独断と偏見に基づくエリア採点アプリ）のAPI部分。
 
